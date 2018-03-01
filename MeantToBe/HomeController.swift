@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  HomeController.swift
 //  MeantToBe
 //
 //  Created by hyunsu han on 2018. 3. 1..
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class HomeController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
