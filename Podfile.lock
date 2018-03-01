@@ -1,0 +1,25 @@
+PODS:
+  - Alamofire (4.5.1)
+  - AlamofireImage (3.3.0):
+    - Alamofire (~> 4.5)
+  - LBTAComponents (1.0.1)
+  - SendBirdSDK (3.0.73)
+  - SwiftyJSON (4.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireImage
+  - LBTAComponents
+  - SendBirdSDK
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  AlamofireImage: 2e784dc5d00f04903a52c1d169181469c805c3df
+  LBTAComponents: 94d833ef9d8c9fdb45f5dbb90385c29c4e171733
+  SendBirdSDK: 4b94942fb38558c4e4856e588af9f3d9f4720e2c
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+
+PODFILE CHECKSUM: 444a9495435046d222d637197e6eca43fa84a888
+
+COCOAPODS: 1.4.0
